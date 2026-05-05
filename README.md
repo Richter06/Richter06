@@ -13,11 +13,8 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudando ADS
-- 💡 Curto trabalhar com: HTML, CSS, JavaScript
-- 🎯 Foco atual: melhorar minhas habilidades em frontend
-- ⚡ Curiosidade: Amo games 🎮.
-
+<p align="center">
+Sou desenvolvedor Front-End em início de carreira, focado na criação de interfaces modernas, responsivas e funcionais, com experiência em HTML, CSS e JavaScript no desenvolvimento de landing pages e sistemas simples, sempre priorizando código limpo e boa experiência do usuário; possuo sólido conhecimento em banco de dados, com prática em SQL e MySQL e familiaridade com PostgreSQL; tenho experiência com Git e GitHub, manutenção e otimização de código (SEO e responsividade) e integração com APIs REST; curso Análise e Desenvolvimento de Sistemas e possuo inglês avançado para leitura de documentação e colaboração em ambientes internacionais; busco minha primeira oportunidade na área para evoluir e contribuir com soluções eficientes.</p>
   
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFiNXRnc3QyaTJhb2F4NWZwczBsN2tzMWt1bnU4bHFudGxreGt3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aGwqOk9Rp75UFwKlOq/giphy.gif" width="400px">
