@@ -27,7 +27,7 @@ Sou desenvolvedor Front-End em início de carreira, focado na criação de inter
 ## 🚀 Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,js,git,github,vscode,mysql,postgres" />
 </p>
 
 <p align="center">
