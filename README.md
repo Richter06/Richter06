@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí 👋, eu sou o Richard</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Frontend;Estudante+de+ADS;Designer+Gráfico;Criador+de+interfaces+épicas;Medalhista+de+Astronomia;Apaixonado+por+Tecnologia;Apaixonado+por+Games"  />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Frontend;Analista+de+Dados;Estudante+de+ADS;Designer+Gráfico;Criador+de+interfaces+épicas;Medalhista+de+Astronomia;Apaixonado+por+Tecnologia;Apaixonado+por+Games"  />
 </p>
 <p align="center">
   💻 Desenvolvedor Frontend | 🎯 Focado em UI/UX | 🚀 Sempre evoluindo
