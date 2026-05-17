@@ -51,8 +51,9 @@ Sou desenvolvedor Front-End em início de carreira, focado na criação de inter
 ## 🧩 Projetos em destaque
 
 - 🔗 [Projeto Mitologias](https://github.com/richter06/mitologias)
-- 🔗 [Outro projeto legal](https://github.com/richter06/portfolio)
-
+- 🔗 [Gran D'oro](https://github.com/Richter06/granDoroPipocas)
+- 🔗 [Sabor Supremo](https://github.com/Richter06/CardapioDigital)
+  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
