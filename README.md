@@ -122,12 +122,12 @@ Landing page desenvolvida para uma artista, unindo apresentação de obras, iden
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Richter06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richter06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richter06&theme=tokyonight" alt="Resumo do perfil GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Richter06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richter06&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Richter06&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
 </p>
 
 ---
