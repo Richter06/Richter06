@@ -53,15 +53,7 @@ Projeto mais completo do meu portfólio atual. Uma plataforma para apresentaçã
 
 **O que demonstra:** arquitetura web • APIs • autenticação • gerenciamento de dados • upload de arquivos • integração com serviços externos • segurança básica • Front-End responsivo
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-00A98F?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><img src="https://img.shields.io/badge/REST%20API-00A98F?style=flat-square&logo=fastapi&logoColor=white" /></p>
 
 ---
 
@@ -73,13 +65,7 @@ Aplicação focada em **lógica de negócio e gerenciamento de dados**, com mód
 
 **O que demonstra:** CRUD • estados e fluxos de negócio • dashboards • manipulação de dados • visualização de informações • geração de documentos
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/jsPDF-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" /><img src="https://img.shields.io/badge/jsPDF-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></p>
 
 ---
 
@@ -91,12 +77,7 @@ Meu espaço de apresentação profissional, desenvolvido para transformar projet
 
 **O que demonstra:** composição visual • responsividade • animações • interação • organização de conteúdo • atenção à experiência do usuário
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/UI%2FUX-7B61FF?style=flat-square&logo=figma&logoColor=white" />
-</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/UI%2FUX-7B61FF?style=flat-square&logo=figma&logoColor=white" /></p>
 
 ---
 
@@ -108,11 +89,7 @@ Projeto visual dedicado às mitologias grega, nórdica e egípcia, com navegaç�
 
 **O que demonstra:** JavaScript • DOM • animações • responsividade • design de interfaces • experiência do usuário
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
 
 ---
 
@@ -124,12 +101,7 @@ Landing page desenvolvida para uma artista, unindo apresentação de obras, iden
 
 **O que demonstra:** design aplicado • CSS avançado • responsividade • SEO/Open Graph • interação • atenção aos detalhes
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SEO%20%2F%20Open%20Graph-4285F4?style=flat-square&logo=google&logoColor=white" />
-</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/SEO%20%2F%20Open%20Graph-4285F4?style=flat-square&logo=google&logoColor=white" /></p>
 
 ---
 
@@ -149,13 +121,13 @@ Landing page desenvolvida para uma artista, unindo apresentação de obras, iden
 
 ## 📊 GitHub
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Richter06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Richter06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Richter06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richter06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Richter06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Richter06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
