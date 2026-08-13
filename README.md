@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Front-End+Developer;Web+Developer;Estudante+de+ADS;UI%2FUX+%26+Design;Construindo+projetos+reais+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>💻 Front-End</b> • <b>⚙️ Web & APIs</b> • <b>🎨 UI/UX</b> • <b>🗄️ SQL</b> • <b>🤖 IA no desenvolvimento</b>
-</p>
+<p align="center"><b>💻 Front-End</b> • <b>⚙️ Web & APIs</b> • <b>🎨 UI/UX</b> • <b>🗄️ SQL</b> • <b>🤖 IA no desenvolvimento</b></p>
 
 ---
 
@@ -128,6 +126,10 @@ Landing page desenvolvida para uma artista, unindo apresentação de obras, iden
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Richter06&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Richter06&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Richter06&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Contador de visualizações do perfil" />
 </p>
 
 ---
