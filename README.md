@@ -43,7 +43,21 @@ Meu diferencial é unir desenvolvimento com **design**, buscando criar interface
 
 > **5 projetos que melhor representam minha evolução, minhas habilidades e a variedade do que consigo construir.**
 
-### 🥇 01 — [Little Bee • Arte & Pintura](https://github.com/Richter06/paginaDeArtesVisuais)
+### 🥇 01 — [FangyScraper](https://github.com/Richter06/FangyScraper)
+
+**Web Scraper • Análise de Front-End • Segurança**
+
+Ferramenta de inspeção técnica de páginas web construída para transformar uma URL em um relatório detalhado sobre a estrutura e os recursos públicos encontrados. O Fangy coleta HTML, analisa o DOM, identifica links, imagens e metadados, encontra recursos JavaScript/CSS externos e executa analisadores especializados sobre o código coletado.
+
+O projeto também possui um **Security Analyzer** para verificar HTTPS, headers de segurança, formulários e possíveis indicadores de dados sensíveis, além de proteções no próprio crawler como validação de URL, bloqueio de hosts/IPs locais e privados, limites de tamanho, limite de recursos e timeout de requisições.
+
+**O que demonstra:** Node.js • Express • Cheerio • REST API • Web Scraping • AST • análise estática de JavaScript • PostCSS • análise de CSS • segurança web • SSRF protection • processamento de HTML • arquitetura modular
+
+<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/Cheerio-E88C1A?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Acorn-4B32C3?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" /><img src="https://img.shields.io/badge/Web%20Security-111827?style=flat-square&logo=owasp&logoColor=white" /></p>
+
+---
+
+### 🥈 02 — [Little Bee • Arte & Pintura](https://github.com/Richter06/paginaDeArtesVisuais)
 
 **Full-Stack Web Application**
 
@@ -55,7 +69,7 @@ Projeto mais completo do meu portfólio atual. Uma plataforma para apresentaçã
 
 ---
 
-### 🥈 02 — [Clínica Vita+](https://github.com/Richter06/clinica-vita)
+### 🥉 03 — [Clínica Vita+](https://github.com/Richter06/clinica-vita)
 
 **Sistema de gestão para clínica**
 
@@ -67,41 +81,29 @@ Aplicação focada em **lógica de negócio e gerenciamento de dados**, com mód
 
 ---
 
-### 🥉 03 — [Portfólio pessoal](https://github.com/Richter06/portfolio)
+### 🎨 04 — [Landing Page Artística](https://github.com/Richter06/landingPageArt)
 
-**Front-End • UI/UX • identidade profissional**
+**Front-End • UI/UX • Experiência visual**
 
-Meu espaço de apresentação profissional, desenvolvido para transformar projetos, habilidades e identidade visual em uma experiência própria e responsiva.
+Landing page artística desenvolvida com foco em **composição visual, identidade, responsividade e interação**, combinando uma estética moderna com animações e navegação fluida.
 
-**O que demonstra:** composição visual • responsividade • animações • interação • organização de conteúdo • atenção à experiência do usuário
+**O que demonstra:** UI/UX • responsividade • CSS avançado • animações • interação com JavaScript • composição visual • atenção aos detalhes
 
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/UI%2FUX-7B61FF?style=flat-square&logo=figma&logoColor=white" /></p>
 
 ---
 
-### 🏛️ 04 — [Mitologias](https://github.com/Richter06/Mitologias)
+### 🛸 05 — [Mayk vs Aliens](https://github.com/Richter06/mayk-vs-aliens)
 
-**Experiência interativa • Front-End criativo**
+**JavaScript • Canvas • Game Development**
 
-Projeto visual dedicado às mitologias grega, nórdica e egípcia, com navegação temática, animações e uma forte preocupação com ambientação e storytelling visual.
+Jogo arcade desenvolvido com **JavaScript puro e Canvas API**, no qual o jogador controla uma nave alienígena e precisa capturar o alvo enquanto a dificuldade aumenta progressivamente.
 
-**O que demonstra:** JavaScript • DOM • animações • responsividade • design de interfaces • experiência do usuário
+O projeto utiliza **game loop, movimentação, interação por teclado, sistema de pontuação, IA simples do inimigo, efeitos sonoros, música ambiente e animações**, demonstrando domínio de lógica e APIs nativas do navegador.
 
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
+**O que demonstra:** JavaScript • Canvas API • Web Audio API • lógica de programação • animação • eventos de teclado • game loop • IA simples
 
----
-
-### 🕷️ 05 — [FangyScraper](https://github.com/Richter06/FangyScraper)
-
-**Web Scraper • Análise de Front-End • Segurança**
-
-Ferramenta de inspeção técnica de páginas web construída para transformar uma URL em um relatório detalhado sobre a estrutura e os recursos públicos encontrados. O Fangy coleta HTML, analisa o DOM, identifica links, imagens e metadados, encontra recursos JavaScript/CSS externos e executa analisadores especializados sobre o código coletado.
-
-O projeto também possui um **Security Analyzer** para verificar HTTPS, headers de segurança, formulários e possíveis indicadores de dados sensíveis, além de proteções no próprio crawler como validação de URL, bloqueio de hosts/IPs locais e privados, limites de tamanho, limite de recursos e timeout de requisições.
-
-**O que demonstra:** Node.js • Express • Cheerio • REST API • Web Scraping • AST • análise estática de JavaScript • PostCSS • análise de CSS • segurança web • SSRF protection • processamento de HTML • arquitetura modular
-
-<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/Cheerio-E88C1A?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Acorn-4B32C3?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" /><img src="https://img.shields.io/badge/Web%20Security-111827?style=flat-square&logo=owasp&logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Canvas%20API-111827?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/Web%20Audio%20API-111827?style=flat-square&logo=googlechrome&logoColor=white" /></p>
 
 ---
 
