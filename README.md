@@ -26,16 +26,19 @@ Meu diferencial é unir desenvolvimento com **design**, buscando criar interface
 ## 🧰 Stack & ferramentas
 
 ### 🎨 Front-End
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,figma" alt="HTML CSS JavaScript Figma" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" /></p>
 
 ### ⚙️ Back-End & APIs
-<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Node.js Express Python FastAPI" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express" /></p>
 
 ### 🗄️ Dados
 <p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="MySQL PostgreSQL Supabase" /></p>
 
 ### 🛠️ Ferramentas
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git GitHub VS Code Vercel" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" alt="Git GitHub VS Code Vercel Render Cloudflare" /></p>
+
+### 🌱 Em aprendizado
+<p align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,vue" alt="React Tailwind Vue" /></p>
 
 ---
 
