@@ -69,7 +69,19 @@ Projeto mais completo do meu portfólio atual. Uma plataforma para apresentaçã
 
 ---
 
-### 🥉 03 — [Clínica Vita+](https://github.com/Richter06/clinica-vita)
+### 🎮 03 — [Pokédex React](https://github.com/Richter06/pokedexReact)
+
+**React • Three.js • Visualização 3D**
+
+Aplicação interativa integrada à PokéAPI, construída para explorar componentização, gerenciamento de estado e renderização de dados dinâmicos em React. Inclui visualização 3D dos Pokémon utilizando Three.js e React Three Fiber, unindo front-end funcional com experiência visual diferenciada.
+
+**O que demonstra:** React • componentização • gerenciamento de estado • consumo de API REST • Three.js • React Three Fiber • Vite • CSS
+
+<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/REST%20API-00A98F?style=flat-square&logo=fastapi&logoColor=white" /></p>
+
+---
+
+### 🥉 04 — [Clínica Vita+](https://github.com/Richter06/clinica)
 
 **Sistema de gestão para clínica**
 
@@ -78,18 +90,6 @@ Aplicação focada em **lógica de negócio e gerenciamento de dados**, com mód
 **O que demonstra:** CRUD • estados e fluxos de negócio • dashboards • manipulação de dados • visualização de informações • geração de documentos
 
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" /><img src="https://img.shields.io/badge/jsPDF-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></p>
-
----
-
-### 🎨 04 — [Landing Page Artística](https://github.com/Richter06/landingPageArt)
-
-**Front-End • UI/UX • Experiência visual**
-
-Landing page artística desenvolvida com foco em **composição visual, identidade, responsividade e interação**, combinando uma estética moderna com animações e navegação fluida.
-
-**O que demonstra:** UI/UX • responsividade • CSS avançado • animações • interação com JavaScript • composição visual • atenção aos detalhes
-
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/UI%2FUX-7B61FF?style=flat-square&logo=figma&logoColor=white" /></p>
 
 ---
 
