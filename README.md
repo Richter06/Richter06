@@ -1,14 +1,5 @@
-<h1 align="center">Richard R. Araújo</h1>
-
-<p align="center"><strong>Desenvolvimento Web • Front-End • JavaScript • UI/UX • Dados</strong></p>
-
 <p align="center">
-  <a href="https://github.com/Richter06"><img src="https://img.shields.io/badge/GitHub-Richter06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/richard-r-araújo/"><img src="https://img.shields.io/badge/LinkedIn-Richard%20R.%20Araújo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=Construindo+produtos+web;Interfaces+%2B+lógica+%2B+dados;React+%2B+Node.js+%2B+SQL+%2B+3D" alt="Apresentação animada">
+  <img src="./assets/header.svg" alt="Richard R. Araújo — Web Development, UI/UX, JavaScript e Data" width="100%">
 </p>
 
 ## 👋 Sobre mim
