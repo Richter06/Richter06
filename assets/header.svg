@@ -48,7 +48,7 @@
 </g>
 
 <!-- dedicated text zone -->
-<text x="600" y="270"
+<text x="600" y="258"
   text-anchor="middle"
   fill="#755509"
   font-family="Georgia, 'Times New Roman', serif"
@@ -56,9 +56,9 @@
   font-weight="700"
   letter-spacing="2">RICHARD R. ARAÚJO</text>
 
-<line x1="430" y1="286" x2="770" y2="286" stroke="#D9BC61" stroke-width="1.5"/>
+<line x1="430" y1="274" x2="770" y2="274" stroke="#D9BC61" stroke-width="1.5"/>
 
-<text x="600" y="313"
+<text x="600" y="319"
   text-anchor="middle"
   fill="#8D7025"
   font-family="Arial, Helvetica, sans-serif"
