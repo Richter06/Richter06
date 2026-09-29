@@ -97,13 +97,15 @@ Também possui uma **Pokébola 3D** usando Three.js, React Three Fiber e Drei.
 
 # 📊 GitHub
 
+
+## 📊 GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richter06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richter06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Principais linguagens">
+  <img src="./dist/github-snake-gold.svg" alt="GitHub contribution snake" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Richter06&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=Richter06&theme=default&hide_border=true&background=FFFDF8&ring=C49A2D&fire=9B6F08&currStreakLabel=755509&sideLabels=755509&dates=8D7025&currStreakNum=755509&sideNums=755509" alt="GitHub streak">
 </p>
 
 ## 🎓 Formação
