@@ -95,8 +95,6 @@ Também possui uma **Pokébola 3D** usando Three.js, React Three Fiber e Drei.
 | **Deploy** | Git · GitHub · Cloudflare · Vercel · Render |
 | **Design** | Figma · Photoshop · CorelDRAW · Canva |
 
-# 📊 GitHub
-
 
 ## 📊 GitHub
 
