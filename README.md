@@ -110,13 +110,26 @@ Também possui uma **Pokébola 3D** usando Three.js, React Three Fiber e Drei.
 
 **Análise e Desenvolvimento de Sistemas — Estácio** · 2026 — presente
 
-**Certificações:** freeCodeCamp Responsive Web Design (300h) · Curso em Vídeo MySQL (40h) · RN Cursos Design Gráfico (50h)
+**Certificações e cursos:**
+
+* **freeCodeCamp — Responsive Web Design** · 300h
+* **freeCodeCamp — Front End Development Libraries** · em progresso
+* **Curso em Vídeo — MySQL** · 40h
+* **RN Cursos — Design Gráfico** · 50h
+* **DIO / Santander — Aceleração Santander: Cibersegurança do Zero à Prática**
+* **DIO / Santander — Aceleração Santander: Boas Práticas de Segurança em Vibe Coding**
+* **DIO — Segurança e Boas Práticas em Projetos Feitos com Vibe Code**
 
 Atualmente aprofundando **React, JavaScript, Node.js, SQL, APIs, testes/homologação, performance, acessibilidade e experiências 3D para web**.
 
 <p align="center">
-  <a href="https://github.com/Richter06">GitHub</a> •
-  <a href="https://www.linkedin.com/in/richard-r-ara%C3%BAjo/">LinkedIn</a>
+  <a href="https://github.com/Richter06">
+    <img src="https://img.shields.io/badge/GitHub-Richter06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/richard-r-ara%C3%BAjo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Richard%20R.%20Ara%C3%BAjo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center"><sub>Construindo, testando, quebrando, entendendo e construindo de novo.</sub></p>
+
